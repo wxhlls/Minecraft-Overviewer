@@ -3,8 +3,7 @@
 block_cipher = None
 
 import sys
-sys.modules['FixTk'] = None
-
+sys.modules['FixTk'] = 
 def get_overviewer_pkgname():
     from overviewer_core import overviewer_version
     return "overviewer-" + overviewer_version.VERSION
