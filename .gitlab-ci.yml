@@ -5,7 +5,7 @@ stages:
   - verify
   - deploy
   - testrepo
-
+#简单的试一下
 variables:
   EXMAPLE_REPO: "https://github.com/overviewer/Minecraft-Overviewer-Addons"
   MC_VERSION: "1.12"
