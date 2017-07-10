@@ -2,7 +2,7 @@
 
 import sys
 import traceback
-
+#就低价 啊啊阿娇阿卡
 # quick version check
 if not (sys.version_info[0] == 2 and sys.version_info[1] >= 6):
     print("Sorry, the Overviewer requires at least Python 2.6 to run")
